@@ -1,0 +1,1 @@
+Cria familias de objetos ON THE FLY que possui alta flexibilidade.
