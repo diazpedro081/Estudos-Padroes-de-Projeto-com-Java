@@ -1,0 +1,1 @@
+Centraliza e compartilha recursos
