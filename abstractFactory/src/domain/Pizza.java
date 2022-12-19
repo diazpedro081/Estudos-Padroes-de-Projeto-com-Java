@@ -15,7 +15,7 @@ abstract public class Pizza {
     String nome;
     String massa;
     String molho;
-    List<String> cobertura = new ArrayList<String>();
+    List<String> coberturas = new ArrayList<String>();
 
     public String getNome() {
         return nome;
@@ -34,12 +34,12 @@ abstract public class Pizza {
     }
 
     public void embalar() {
-        System.out.println("EMbalando " + nome);
+        System.out.println("Embalando " + nome);
     }
 
     @Override
     public String toString() {
-        return "A Pizza de " + nome + ", massa=" + massa + ", molho=" + molho + ", cobertura=" + cobertura + "]";
+        return "A Pizza de " + nome + ", tem a massa de " + massa + " com molho de " + molho + " e cobertura de " + coberturas;
     }
 
 }
