@@ -1,1 +1,1 @@
-O Builder Cria familias de objetos ON THE FLY que possui alta flexibilidade.
+O Builder constroi o produto passo a passo
