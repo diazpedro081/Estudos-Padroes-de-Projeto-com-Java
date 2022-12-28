@@ -1,1 +1,0 @@
-Cria objetos ON THE FLY com alta flexibilidade
