@@ -1,0 +1,1 @@
+Faz o compartilhamento de recursos de maneira inteligente.
