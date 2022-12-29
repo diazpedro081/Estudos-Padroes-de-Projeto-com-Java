@@ -1,0 +1,1 @@
+Ele externaliza estado sem quebrar o encapsulamento.
