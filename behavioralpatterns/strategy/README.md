@@ -1,0 +1,1 @@
+Separa os dados dos algorítimos para alcançar a reusabilidade.
