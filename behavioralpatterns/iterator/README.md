@@ -1,1 +1,0 @@
-Percorre um conjunto de dados independente da implementação.
