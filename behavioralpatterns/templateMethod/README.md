@@ -1,1 +1,0 @@
-Define o esqueleto de um algoritmo na superclass, mas deixa as subclasses sobrescreverem etapas especificas do algoritmo sem modificar sua estrutura.
