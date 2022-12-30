@@ -1,1 +1,0 @@
-Que repassa requisições para evitar decisões.
