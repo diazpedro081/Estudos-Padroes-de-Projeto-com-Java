@@ -1,1 +1,0 @@
-Tratam da comunicação entre os objetos especialmente em termo de responsabilidade e algoritmo.
