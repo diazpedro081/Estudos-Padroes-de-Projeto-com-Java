@@ -1,1 +1,0 @@
-Simplifica relações complexas.
