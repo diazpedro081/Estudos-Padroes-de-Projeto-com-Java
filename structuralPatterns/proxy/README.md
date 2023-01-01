@@ -1,1 +1,0 @@
-Faz um objeto representar outro objeto.
