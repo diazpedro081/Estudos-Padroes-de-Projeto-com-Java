@@ -1,1 +1,0 @@
-Ele simplifica a troca de estados internos de um objeto.
