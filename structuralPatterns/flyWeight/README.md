@@ -1,1 +1,0 @@
-Compartilha de pequenos recursos para economizar espaço.
