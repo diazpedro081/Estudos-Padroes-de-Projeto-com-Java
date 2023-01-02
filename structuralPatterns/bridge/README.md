@@ -1,1 +1,0 @@
-Separa abstrações para melhorar a flexibilidade.
