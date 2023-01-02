@@ -1,1 +1,0 @@
-Trata todos os objetos de forma justa.
