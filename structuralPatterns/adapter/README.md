@@ -1,1 +1,0 @@
-Liga o conteúdo ao sistema.
