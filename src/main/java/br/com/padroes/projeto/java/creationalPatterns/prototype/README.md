@@ -1,0 +1,1 @@
+O prototype Cria objetos por copia de uma instacia.
