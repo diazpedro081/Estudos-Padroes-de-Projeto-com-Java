@@ -1,0 +1,1 @@
+Simplifica a utilização de sub-sistemas complexos.
