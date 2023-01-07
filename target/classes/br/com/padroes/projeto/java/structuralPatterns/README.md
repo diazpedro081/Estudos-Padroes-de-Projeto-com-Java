@@ -1,0 +1,1 @@
+Trata da relação entre os objetos e como eles interagem entre si para assim formarem grandes objetos complexos.
