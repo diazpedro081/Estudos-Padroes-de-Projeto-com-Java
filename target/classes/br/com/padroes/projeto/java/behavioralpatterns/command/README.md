@@ -1,0 +1,1 @@
+Transforma requisições para evitar decisões.
