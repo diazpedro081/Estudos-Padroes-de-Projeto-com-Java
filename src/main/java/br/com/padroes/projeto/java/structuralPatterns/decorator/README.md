@@ -1,0 +1,1 @@
+Incrementa funcionalidades dinamicamente.
