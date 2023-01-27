@@ -10,7 +10,7 @@ public class AppVendas {
 
         Pedido pedido = new ConstrutorPedido()
                 .setNumero("0987654321")
-                .setCliente("Jorge", "95448254373", "81962244633")
+                .setCliente("Jose", "95448254373", "81962244633")
                 .setVendedor(1, "Vinicius")
                 .setProduto("geladeira", 01, new BigDecimal(6500.00))
                 .setProduto("Fogão", 02, new BigDecimal(1500.00))
